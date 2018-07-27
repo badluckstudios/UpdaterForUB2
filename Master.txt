@@ -1,4 +1,4 @@
 
 <Version:1.01>
-/img\SumRndmDde\Slot Machine https://wordpress.org/latest.zip
+/img/SumRndmDde/Slot Machine https://wordpress.org/latest.zip
 <End of Version>
