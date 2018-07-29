@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Lindsay Bra","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Lindsay","traits":[],"initialLevel":1,"maxLevel":69,"name":"Lindsay","nickname":"","note":"<Menu Bust: Package1_1>\n<Max TP: this.level * .36>\n\n\n","profile":"A ratchet bitch from Jacksonville that you don't want\nto fuck with!"},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":2,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Actor1","traits":[],"initialLevel":69,"maxLevel":99,"name":"Purse","nickname":"","note":"","profile":""}
+]
