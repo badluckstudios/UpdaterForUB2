@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"atypeId":0,"description":"The SnapSnatch Camera is great for developing your photos as soon as you take the shot. \nLindsay's sole purpose for this camera is taking toilet selfies.","etypeId":4,"traits":[],"iconIndex":71,"name":"SnapSnatch Camera","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":2,"atypeId":0,"description":"A reprogrammable moel key will allow you to get into any room at the Motel 69.","etypeId":4,"traits":[],"iconIndex":195,"name":"Universal Motel Key","note":"","params":[0,0,0,10,0,0,0,0],"price":0},
+{"id":3,"atypeId":1,"description":"Bounce high! Bounce far! Have fun! Break an ankle! ","etypeId":4,"traits":[],"iconIndex":140,"name":"Finna Bounce Shoes","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
+{"id":4,"atypeId":1,"description":"Used for burning piles of food or lightin' up farts.","etypeId":5,"traits":[],"iconIndex":64,"name":"Lighter","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
+{"id":5,"atypeId":0,"description":"Your Mom's old portable CD Player. ","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":80,"name":"Walkgirl","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":6,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
