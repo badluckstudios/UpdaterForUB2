@@ -1,4 +1,4 @@
 
 <Version:1.03>
-/www/img/SumRndmDde/ YouDidIt.zip https://wordpress.org/latest.zip
+/img/SumRndmDde/ YouDidIt.zip https://wordpress.org/latest.zip
 <End of Version>
