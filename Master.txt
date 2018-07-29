@@ -1,8 +1,4 @@
 
-<Version:1.02>
-/www/img/SumRndmDde/ YouDidIt.zip https://wordpress.org/latest.zip
-<End of Version>
-
 <Version:1.03>
-/data/test.zip https://wordpress.org/latest.zip
+/www/img/SumRndmDde/ YouDidIt.zip https://wordpress.org/latest.zip
 <End of Version>
