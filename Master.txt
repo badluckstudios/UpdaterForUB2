@@ -16,4 +16,5 @@
 /data/Map287.json https://raw.githubusercontent.com/badluckstudios/UpdaterForUB2/master/Map287.json
 /data/Items.json https://raw.githubusercontent.com/badluckstudios/UpdaterForUB2/master/Items.json
 /data/CommonEvents.json https://raw.githubusercontent.com/badluckstudios/UpdaterForUB2/master/CommonEvents.json
+/data/System.json https://raw.githubusercontent.com/badluckstudios/UpdaterForUB2/master/System.json
 <End of Version>
