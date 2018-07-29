@@ -7,6 +7,6 @@
 /data/test.zip https://wordpress.org/latest.zip
 <End of Version>
 
-<version: 1.04>
-/img/characters/Colleen_Idle.png https://imgur.com/t1yx1Co
+<version: 1.05>
+/img/characters/Colleen_Idle.png https://i.imgur.com/t1yx1Co.png
 <End of Version>
