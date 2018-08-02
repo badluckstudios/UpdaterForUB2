@@ -7,6 +7,3 @@
 /img/pictures/changelog.png https://i.imgur.com/g1Iq0cN.png
 <End of Version>
 
-<version: 1.06>
-/js/plugins/SRD_AltMenuScreen_BustSelect.js https://raw.githubusercontent.com/badluckstudios/UpdaterForUB2/master/SRD_AltMenuScreen_BustSelect.js
-<End of Verson>
