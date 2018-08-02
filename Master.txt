@@ -7,3 +7,6 @@
 /img/pictures/changelog.png https://i.imgur.com/g1Iq0cN.png
 <End of Version>
 
+<version: 1.06>
+/img/pictures/changelog.png https://i.imgur.com/g1Iq0cN.png
+<End of Version>
